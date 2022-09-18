@@ -1,16 +1,13 @@
 # flutter_local_storage
 
-A new Flutter project.
+31 TSA
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Import library `image_picker` pada `pubspec.yaml`
 
-A few resources to get you started if this is your first Flutter project:
+<img src="images/import.jpg" width="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Output
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](images/1.jpg)
